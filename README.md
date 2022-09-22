@@ -2,7 +2,7 @@
 #### I am Administrative Informatician and Software Developer
 I'm from Honduras, I'm a big dreamer, and I want to accomplish a lot in life, one of those things is really become an awesome software developer, I'm a very logical person, an easy learner, and I have a passion for projects as well.
 
-![I am GitHub Readme Generator's creator](https://github.com/juanfercaste/juanfercaste/blob/main/Juan%20Fernando%20(1)%20(1).png)
+![I am GitHub Readme Generator's creator](https://github.com/juanfercaste/juanfercaste/blob/main/Web%20Developer%20(1).png)
 
 Skills: / REACT / JS / HTML / CSS / WEB DESIGN
 

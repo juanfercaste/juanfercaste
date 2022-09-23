@@ -14,5 +14,5 @@ Skills: / REACT / JS / HTML / CSS / WEB DESIGN
 
 ##### Note, these percentages are from the projects hosted here in git, not actually my knowlage of the languages!.
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-wine.vercel.app/api?username=juanfercaste)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-three-wine.vercel.app/api?username=juanfercaste&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 

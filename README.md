@@ -6,7 +6,7 @@ I'm from Honduras, I'm a big dreamer, and I want to accomplish a lot things in l
 ##### My favorite phrase
 A jack of all trades is a master of none, but oftentimes better than a master of one
 
-![I am GitHub Readme Generator's creator](https://github.com/juanfercaste/juanfercaste/blob/main/Web%20Developer%20(1).png)
+![logo](https://raw.githubusercontent.com/juanfercaste/juanfercaste/blob/main/Web%20Developer%20(1).png)
 
 Skills: / REACT / JS / HTML / CSS / WEB DESIGN / FRONT-END
 

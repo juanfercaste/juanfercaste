@@ -7,7 +7,7 @@ I'm from Honduras, I'm a big dreamer, and I want to accomplish a lot things in l
 A jack of all trades is a master of none, but oftentimes better than a master of one
 
 
-![logo](https://github.com/juanfercaste/juanfercaste/blob/main/Web-Developer-small.png)
+![logo](https://github.com/juanfercaste/juanfercaste/blob/main/Web-Developer.png)
 
 
 Skills: / REACT / JS / HTML / CSS / WEB DESIGN / FRONT-END

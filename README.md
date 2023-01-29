@@ -23,5 +23,5 @@ https://github-readme-stats-juanfercaste.vercel.app/
 
 [![Top Langs](https://github-readme-stats-juanfercaste.vercel.app/api/top-langs/?username=juanfercaste&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-wine.vercel.app/api?username=juanfercaste&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-juanfercaste.vercel.app/api?username=juanfercaste&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 

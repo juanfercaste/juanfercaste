@@ -19,8 +19,9 @@ Skills: / REACT / JS / HTML / CSS / WEB DESIGN / FRONT-END
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juanfercaste)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-cerrato-a33422167//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Juanfercerrato)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://es.stackoverflow.com/users/277290/fernado-castellon)  
 
 ##### Note, these percentages are from the projects hosted here in git, not actually my knowlage of the languages!.
+https://github-readme-stats-juanfercaste.vercel.app/
 
-[![Top Langs](https://github-readme-stats-three-wine.vercel.app/api/top-langs/?username=juanfercaste&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-juanfercaste.vercel.app/api/top-langs/?username=juanfercaste&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-three-wine.vercel.app/api?username=juanfercaste&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
